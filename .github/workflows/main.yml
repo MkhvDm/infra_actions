@@ -11,7 +11,7 @@ jobs:
     runs-on:
       ubuntu-latest
 
-      steps:
-      - name: Test GitHUb action command
-        run: echo github action ok!
+    steps:
+    - name: Test GitHUb action command
+      run: echo github action ok!
 
